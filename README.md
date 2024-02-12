@@ -1,5 +1,7 @@
 # Notes for nlp lectures
-Base on https://karpathy.ai/zero-to-hero.html
+Base on 
+  - https://karpathy.ai/zero-to-hero.html
+  - https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/
 
 ## Referencies
 - https://karpathy.ai/zero-to-hero.html
