@@ -2,6 +2,7 @@
 Base on 
   - https://karpathy.ai/zero-to-hero.html
   - https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1234/
+  - video lectures: https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4
 
 ## Referencies
 - https://karpathy.ai/zero-to-hero.html
