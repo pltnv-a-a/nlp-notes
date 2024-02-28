@@ -25,4 +25,14 @@
 - https://arxiv.org/abs/2401.02385
 10. DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models
 - https://arxiv.org/pdf/2402.03300v2.pdf
-  
+
+## Long context
+11. LongRoPE: Extending LLM Context Window Beyond 2 Million Tokens
+- https://arxiv.org/abs/2402.13753
+13. LongNet: Scaling Transformers to 1,000,000,000 Tokens
+- https://arxiv.org/abs/2307.02486
+14. Ring Attention with Blockwise Transformers for Near-Infinite Context
+- https://arxiv.org/abs/2310.01889
+15. In Search of Needles in a 11M Haystack: Recurrent Memory Finds What LLMs Miss
+- https://arxiv.org/abs/2402.10790
+
