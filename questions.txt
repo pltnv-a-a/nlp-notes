@@ -1,0 +1,19 @@
+1. N-gram models for language modeling
+1.a neural networks, back prop and embedings
+1.b Loss functions: CrossEntropy, Perplexity
+2. Recurrent neural networks
+2.a Exploding and vanishing gradients and other training tricks
+2.b LSTM
+2.c Bidirectional and multi-layer RNNs, 
+2.d sequence-to-sequence models and language translation
+3. Transformer architecture
+3.a self-attention in details
+3.b Encoder and Decoder usage scenarious
+4. Pre-train and fine-tune methods
+5. NLG details: top-k, top-n, temperature, beam-search 
+6. NLG evaluation metrics: BLEU, ROUGE, METEOR, CIDE, BertScore
+7. RLHF introduction
+7a. Instruction Fine-tunning, zero/few-shot learning, prompt engineering, chain-of-thoughts
+8. Question Answering
+9. Code generation  
+
